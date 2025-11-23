@@ -47,9 +47,9 @@
 <h3>📊 Analytics</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chestnutye&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0056b3" height="150" alt="AustenYE's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chestnutye &show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0056b3" height="150" alt="AustenYE's stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chestnutye&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="150" alt="AustenYE's languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chestnutye &layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="150" alt="AustenYE's languages" />
 </p>
 
 <hr style="border: 1px solid #eaeaea;" />
